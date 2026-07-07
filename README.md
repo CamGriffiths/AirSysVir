@@ -5,6 +5,6 @@
 
   # CamGriffiths's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[camgriffiths.github.io/AirSysVir](https://camgriffiths.github.io/AirSysVir)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
