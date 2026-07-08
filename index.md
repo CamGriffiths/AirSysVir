@@ -1,9 +1,9 @@
 ---
 ---
 
-# CamGriffiths's Website
+# Griffiths Lab Website
 
-An engaging 1-3 sentence description of your lab.
+Interdisciplinary hybrid wet-dry approaches to tackling basic virology questions.
 
 {% include section.html %}
 
