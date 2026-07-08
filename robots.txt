@@ -1,1 +1,1 @@
-Sitemap: http://www.airsysvir.org/sitemap.xml
+Sitemap: https://www.airsysvir.org/sitemap.xml
