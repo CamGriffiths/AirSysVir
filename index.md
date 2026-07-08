@@ -3,7 +3,7 @@
 
 # Griffiths Lab Website
 
-Interdisciplinary hybrid wet-dry approaches to tackling basic virology questions.
+Interdisciplinary hybrid wet-dry approaches to tackling basic virology questions
 
 {% include section.html %}
 
