@@ -1,6 +1,7 @@
 ---
 name: Could Be You!
 image: images/photo.jpg
+description: PhD Student
 role: phd
 links:
 ---
