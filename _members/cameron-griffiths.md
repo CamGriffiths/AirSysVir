@@ -5,6 +5,7 @@ role: principal-investigator
 aliases:
   - C. Griffiths
   - C Griffiths
+  - CD Griffiths
 links:
   orcid: 0000-0002-1280-3615
 ---
