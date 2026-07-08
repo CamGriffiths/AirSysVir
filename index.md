@@ -2,11 +2,10 @@
 ---
 
 # Griffiths Lab Website
-{%
-  include feature.html
-  image="images/Philosophy_Web.jpeg"
-%}
+
 Interdisciplinary hybrid wet-dry approaches to tackling basic virology questions
+
+![plain image](images/Philosophy_Web.jpeg)
 
 {% include section.html %}
 
