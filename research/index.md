@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="viral adaption by the heart" style="rich" %}
+{% include citation.html lookup="Three modes of viral adaption by the heart" style="rich" %}
 
 {% include section.html %}
 
