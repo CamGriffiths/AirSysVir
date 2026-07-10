@@ -5,7 +5,7 @@
 
 Interdisciplinary hybrid wet-dry approaches to tackling basic virology questions
 
-<img src="images/Philosophy_Web.jpeg" alt="Data Science-Based Systems Virology" style="width:500px;height:600px;">
+<img src="images/Philosophy_Web.jpeg" alt="Data Science-Based Systems Virology" style="width:600px;height:600px;">
 
 {% include section.html %}
 
