@@ -7,14 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Airway Systems Virology Lab is highly collaborative. Several recent publications are highlighted that represent current lab research interests. Below, this page lists all of Cameron Griffiths’ peer reviewed publications. 
 
 {% include section.html %}
 
 ## Highlighted
 
 {% include citation.html lookup="Three modes of viral adaption by the heart" style="rich" %}
+
+{% include citation.html lookup="A novel syndrome of silent rhinovirus-associated bronchoalveolitis in children with recurrent wheeze" style="rich" %}
 
 {% include section.html %}
 
