@@ -29,7 +29,7 @@ Current projects focus on 1) How children with asthma respond to rhinovirus infe
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
+  link="research"
   title="Our Projects"
   flip=true
   style="bare"
