@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Airway Systems Virology Lab values collaborative research and using public data whenever possible. This page describes current research interests of the lab. Below are datasets and tools that we have contributed.
 
 {% include tags.html tags="publication, resource, website" %}
 
