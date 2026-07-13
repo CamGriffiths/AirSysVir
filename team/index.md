@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Exploring the unknown is a daunting task. The Airway Systems Virology Lab strives to work at the edge of human knowledge. With a mentality that focuses on using the best technique to answer our questions of interest, the lab is constantly learning. Come join our growing team!
 
 {% include section.html %}
 
