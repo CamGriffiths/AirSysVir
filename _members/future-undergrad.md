@@ -6,4 +6,4 @@ role: undergrad
 links:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Airway Systems Virology Lab is looking for members with either a computational or biology background. If you find viruses fascinating and are excited to learn new things, this could be the lab for you!
