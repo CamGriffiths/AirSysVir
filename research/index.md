@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Software, datasets, and more
+  tooltip: Overview of current projects, datasets, and tools
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
