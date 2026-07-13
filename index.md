@@ -3,9 +3,9 @@
 
 # Griffiths Lab Website
 
-Interdisciplinary hybrid wet-dry approaches to tackling basic virology questions
+The Airway Systems Virology Lab combines systems biology and molecular biology to investigate how host-cell gene regulatory landscapes impact susceptibility and responses to respiratory viral infection. Guided by a “Data Science-Based Systems Virology” philosophy (schematic below), the lab blends bioinformatics with wet-lab experiments and clinical collaboration to tackle basic virology questions with human health importance.
 
-<img src="images/Philosophy_Web.jpeg" alt="Data Science-Based Systems Virology" style="width:758.25px;height:600px;">
+<img src="images/Philosophy_Web.jpeg" alt="Data Science-Based Systems Virology" style="aspect-ratio:1.26375;max-height:600px;">
 
 {% include section.html %}
 
@@ -13,24 +13,7 @@ Interdisciplinary hybrid wet-dry approaches to tackling basic virology questions
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Current projects focus on 1) How children with asthma respond to rhinovirus infection 2) Differences in intrinsic susceptibility to infection in respiratory epithelial cells.
 
 {%
   include button.html
@@ -55,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The lab prioritizes enthusiasm for scientific discovery and willingness to learn new things. Come join our growing team!
 
 {%
   include button.html
