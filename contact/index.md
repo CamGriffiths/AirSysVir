@@ -22,9 +22,10 @@ Contact details for the Airway Systems Virology Lab. If you are interested in jo
   link="https://www.google.com/maps/place/Pearson+Hall,+Oxford,+OH+45056/"
 %}
 
+<!--
 {% include section.html %}
 
-<!--
+
 {% capture col1 %}
 
 {%
@@ -46,8 +47,7 @@ Contact details for the Airway Systems Virology Lab. If you are interested in jo
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
--->
-<!--
+
 {% include section.html dark=true %}
 
 {% capture col1 %}
