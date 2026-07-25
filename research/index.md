@@ -24,5 +24,7 @@ The Airway Systems Virology Lab values collaborative research and using public d
 {% include tags.html tags="dataset, tool" %}
 
 {% include search-info.html %}
-
+Coming soon!
+<!--
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
+-->
