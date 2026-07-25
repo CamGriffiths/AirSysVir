@@ -24,8 +24,9 @@ Contact details for the Airway Systems Virology Lab. If you are interested in jo
 
 <!--
 {% include section.html %}
+-->
 
-
+<!--
 {% capture col1 %}
 
 {%
@@ -47,9 +48,13 @@ Contact details for the Airway Systems Virology Lab. If you are interested in jo
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
+-->
 
+<!--
 {% include section.html dark=true %}
+-->
 
+<!--
 {% capture col1 %}
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
