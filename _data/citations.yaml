@@ -100,16 +100,19 @@
   cameron-griffiths: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.07.10.548432
+- id: doi:10.1038/s44320-024-00064-3
   title: Proteome-wide copy-number estimation from transcriptomics
   authors:
-  - Andrew J. Sweatt
-  - Cameron D. Griffiths
-  - B. Bishal Paudel
-  - Kevin A. Janes
-  publisher: openRxiv
-  date: '2023-07-11'
-  link: https://doi.org/hbxpws
+  - Andrew J Sweatt
+  - Cameron D Griffiths
+  - Sarah M Groves
+  - B Bishal Paudel
+  - Lixin Wang
+  - David F Kashatus
+  - Kevin A Janes
+  publisher: Molecular Systems Biology
+  date: '2024-09-27'
+  link: https://doi.org/hbgjzt
   orcid: 0000-0002-1280-3615
   cameron-griffiths: true
   plugin: orcid.py
