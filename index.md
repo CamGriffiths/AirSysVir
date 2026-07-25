@@ -30,7 +30,7 @@ Current projects focus on:
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Research_venn.png"
   link="research"
   title="Our Projects"
   flip=true
