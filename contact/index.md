@@ -12,14 +12,8 @@ Contact details for the Airway Systems Virology Lab. If you are interested in jo
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="Cameron Griffiths"
+  link="griff188@miamioh.edu"
 %}
 {%
   include button.html
@@ -30,7 +24,7 @@ Contact details for the Airway Systems Virology Lab. If you are interested in jo
 
 {% include section.html %}
 
-{% capture col1 %}
+<!--{% capture col1 %}
 
 {%
   include figure.html
@@ -72,4 +66,4 @@ consectetur adipiscing elit
 sed do eiusmod tempor
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %}-->
