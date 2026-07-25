@@ -1,20 +1,29 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Classifying Host Responses to Rhinovirus Infection
+  subtitle: Transcriptomic and clinical features of children with/without asthma
+  group: featured
+  image: images/Nasal_RV_Cluster.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - project
+
+- title: Nasal vs Bronchial Responses to Rhinovirus
+  subtitle: Does rhinovirus cause the same response in the upper and lower airways?
+  group: featured
+  image: images/cgpair_pca_rv3-01.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - project
+
+- title: Mapping Viral Infections between Model Systems
+  subtitle: How does rhinovirus infection compare between humans and ex vivo airway cells?
   group: featured
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
+    - project
