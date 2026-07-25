@@ -7,6 +7,8 @@ aliases:
   - C Griffiths
   - CD Griffiths
   - Cameron Griffiths
+  - Cameron D Griffiths
+  - Cameron D. Griffiths
 links:
   orcid: 0000-0002-1280-3615
 ---
