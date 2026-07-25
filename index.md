@@ -5,7 +5,7 @@
 
 The Airway Systems Virology Lab combines systems biology and molecular biology to investigate how host-cell gene regulatory landscapes impact susceptibility and responses to respiratory viral infection. Guided by a “Data Science-Based Systems Virology” philosophy (schematic below), the lab blends bioinformatics with wet-lab experiments and clinical collaboration to tackle basic virology questions with human health importance.
 
-<img src="images/Philosophy_Web.jpeg" alt="Data Science-Based Systems Virology" style="aspect-ratio:1.26375;max-height:600px;">
+<center><img src="images/Philosophy_Web.jpeg" alt="Data Science-Based Systems Virology" style="aspect-ratio:1.26375;max-height:600px;">
 
 {% include section.html %}
 
