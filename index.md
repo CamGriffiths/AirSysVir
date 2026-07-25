@@ -15,7 +15,7 @@ The Airway Systems Virology Lab combines systems biology and molecular biology t
 
 Current projects focus on:
 <br><b>1) How children with asthma respond to rhinovirus infection 
-<br><b>2) Differences in intrinsic susceptibility to infection in respiratory epithelial cells
+<br><b>2) Differences in respiratory epithelial cell susceptibility to infection
 
 {%
   include button.html
