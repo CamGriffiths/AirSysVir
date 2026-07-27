@@ -3,8 +3,7 @@
   group: featured
   image: images/Nasal_RV_Cluster_card.jpg
   link: /research/
-  description: Rhinovirus often infects children without causing symptoms. We are examining how children with and without asthma respond to 
-  these subclinical infections through a combination of clinical collaboration, data mining, and laboratory experiments
+  description: Rhinovirus often infects children without causing symptoms. We are examining how children with and without asthma respond to these subclinical infections through a combination of clinical collaboration, data mining, and laboratory experiments
   tags:
     - project
 
@@ -13,8 +12,7 @@
   group: featured
   image: images/Project2_card.jpg
   link: /research/
-  description: Not everyone is equally susceptible to respiratory virus infection. A similar heterogeneity in susceptibility is also observed 
-  directly in respiratory epithelial cells. We are testing what makes someone (or their cells) more or less susceptible to infection
+  description: Not everyone is equally susceptible to respiratory virus infection. A similar heterogeneity in susceptibility is also observed directly in respiratory epithelial cells. We are testing what makes someone (or their cells) more or less susceptible to infection
   tags:
     - project
 
