@@ -1,7 +1,7 @@
 - title: Classifying Host Responses to Rhinovirus Infection
   subtitle: Transcriptomic and clinical features of children with/without asthma
   group: featured
-  image: images/Nasal_RV_Cluster.jpg
+  image: images/Nasal_RV_Cluster_card.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -11,7 +11,7 @@
 - title: Susceptibility to Respiratory Virus Infection in Different Model Systems
   subtitle: What makes respiratory epithelial cells susceptible to infection?
   group: featured
-  image: images/Project2.jpeg
+  image: images/Project2_card.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
