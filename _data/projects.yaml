@@ -2,9 +2,9 @@
   subtitle: Transcriptomic and clinical features of children with/without asthma
   group: featured
   image: images/Nasal_RV_Cluster_card.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: /research/
+  description: Rhinovirus often infects children without causing symptoms. We are examining how children with and without asthma respond to 
+  these subclinical infections through a combination of clinical collaboration, data mining, and laboratory experiments
   tags:
     - project
 
@@ -12,9 +12,9 @@
   subtitle: What makes respiratory epithelial cells susceptible to infection?
   group: featured
   image: images/Project2_card.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: /research/
+  description: Not everyone is equally susceptible to respiratory virus infection. A similar heterogeneity in susceptibility is also observed 
+  directly in respiratory epithelial cells. We are testing what makes someone (or their cells) more or less susceptible to infection
   tags:
     - project
 
